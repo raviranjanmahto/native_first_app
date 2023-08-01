@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": false,
+  "testing.saveBeforeTest": true,
+  "files.autoSave": "afterDelay",
+  "files.refactoring.autoSave": true,
+  "files.saveConflictResolution": "askUser"
+}
